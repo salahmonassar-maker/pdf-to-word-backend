@@ -1,6 +1,4 @@
 flask
-pdf2docx
-pytesseract
-pdf2image
+flask-cors
+pdfplumber
 python-docx
-pillow
